@@ -623,7 +623,7 @@ body::after {
   position: fixed;
   height: 100vh;
   z-index: -2;
-  background: url("/images/IMG_8476.JPG") no-repeat center/cover;
+  background: url("/uploads/IMG_8476.JPG") no-repeat center/cover;
 }
 .container {
   white-space: normal;
@@ -908,7 +908,7 @@ body::after {
   z-index: 0;
   width: 100%;
   height: 100%;
-  background: url("/images/IMG_8478.JPG") no-repeat center/cover;
+  background: url("/uploads/IMG_8478.JPG") no-repeat center/cover;
 }
 .header-banner-info {
   position: absolute;
@@ -949,7 +949,7 @@ body::after {
   color: #f5f6f7;
   background-color: #2d2e30;
   z-index: 0;
-  background: url("/images/IMG_8477.JPG") no-repeat center/cover;
+  background: url("/uploads/IMG_8477.JPG") no-repeat center/cover;
 }
 .footer a {
   color: #c20808;
